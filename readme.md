@@ -55,7 +55,7 @@ Aclaraciones:
       * El administrador puede asignar nuevos administradores
       * Quien no sea administrador, solo podrá registrar Atenciones.
 
-    - Dentro del repositorio, se encuentra la carpeta "others" con imagenes para Avatars, Atenciones, y el video explicativo sobre el funcioamiento del sitio 
+    - Dentro del repositorio, se encuentra la carpeta "others" con imagenes para Avatars, Foto de Atenciones, y el video explicativo sobre el funcioamiento del sitio 
     - Se podrán ejecutar las pruebas unitarias, validando la creacion y eliminacion de Servcios, Gastos, Marcas e Insumos, con el siguiente comando: python manage.py test
  
     - Usuarios de prueba:
